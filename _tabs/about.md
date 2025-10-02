@@ -1,8 +1,9 @@
 ---
-title: About
-icon: fas fa-info
-order: 5
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
 ---
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 ## What is this? Why is this? How dare you?
 
 Ramblings into the void about various red team concepts, scripts, tools, etc. Blue team stuff will also be touched on, as well as CTF writeups and other related things. 
