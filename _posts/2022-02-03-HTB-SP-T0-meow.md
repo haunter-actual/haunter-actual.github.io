@@ -37,7 +37,7 @@ Set the machine's IP to a variable first. You'll want to make this a habit :)
 
 ![The host machine IP](/assets/img/ctf/htb/sp/tier0/meow/2ip.PNG)
 
-![](/assets/img/ctf/htb/sp/tier0/meow/3ping.png)
+![image](/assets/img/ctf/htb/sp/tier0/meow/3ping.png)
 
 `target=x.x.x.x`
 `echo $target`
