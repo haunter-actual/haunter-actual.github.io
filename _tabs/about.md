@@ -3,10 +3,9 @@
 icon: fas fa-info-circle
 order: 4
 ---
-# Hi
-I've had the pleasure of operating Blue Team in cybersecurity for almost 7 years, and have been in IT for about 15 years in total. I am married to a beautiful and supporting wife and the proud parent of 3 asshole cats, a dog, and a lot of plants. 
+Cybersecurity professional on the blue team side of things for almost 7 years, and have been in IT for about 15 years in total. I am married to a beautiful and supporting wife and the proud parent of 3 asshole cats, a dog, and a lot of plants. 
 
-This site will be focused on cybersecurity, including various ctf writeups, offensive security methodology, and other related things. Feel free to reach out or connect with me.
+This site will be focused on cybersecurity, including various ctf writeups, offensive security methodology, and other related things as I explore RedOps Feel free to reach out or connect with me. I can be readily found on Offsec's discord as well.
 
 # Education & Certifications
 <img src='https://www.hackthebox.eu/badge/image/276059' alt="Haunter's HTB Profile" style='display: block;'/><br/>
@@ -22,4 +21,4 @@ This site will be focused on cybersecurity, including various ctf writeups, offe
 
 Thanks for reading.
 
-HAUNTER
+haunter
