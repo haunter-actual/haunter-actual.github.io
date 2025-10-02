@@ -9,8 +9,8 @@ I've had the pleasure of working in cybersecurity for almost 7 years, and have b
 This site will be focused on cybersecurity, including various ctf writeups, offensive security methodology, and other related things. Feel free to reach out or connect with me.
 
 # Education & Certifications
-<script src="https://tryhackme.com/badge/20959"></script></ibr/>
-<img src='https://www.hackthebox.eu/badge/image/276059' alt="Haunter's HTB Profile" style='display: block;'/>
+<img src='https://www.hackthebox.eu/badge/image/276059' alt="Haunter's HTB Profile" style='display: block;'/><br/>
+<script src="https://tryhackme.com/badge/20959"></script></br/>
 
 * B.S & M.S. Cybersecurity & Information Assurance
 * eJPTv2
