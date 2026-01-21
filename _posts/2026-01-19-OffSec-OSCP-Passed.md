@@ -1,5 +1,5 @@
 ---
-title: "OffSec Offensive Security Certified Professional (OSCP+) - Exam Passed & Study Journy "
+title: "OffSec Offensive Security Certified Professional (OSCP+) - My Journey to Certification"
 date: 2026-01-19 12:00:00 -0000
 categories: [Certification, OSCP]
 tags: [OffSec, OSCP, OSCP+]
@@ -95,7 +95,7 @@ You can reference my route below. I'd skip #1 through #4 if you have pentesting/
 
 As mentioned earlier, scheduling the exam early on can force you to make a plan and stick with it to study. My exam experiences are detailed below:
 
-## Attempt 1
+### Attempt 1
 Exam Format: Old Format
 Datetime: 10/31/2024 - 10 PM PST 
 Total Exam Time: 24 hours
@@ -108,7 +108,7 @@ Initially, I had purchased a Learn One subscription and then a lab extension to 
 
 That didn't help :O  I did abysmally. Starting the exam so late in the day was a bad idea as I felt compelled to stay away through my normal sleeping ours. I didn't take any breaks and slammed my head against the wall for 24 hours, only having achieved a foothold on two standalone systems. This really upset me as I was sure I would nail the AD set at the very least, but I didn't even dent it.
 
-## Attempt 2
+### Attempt 2
 Exam Format: Current Format
 Datetime: 4/19/2025 - 11 AM PST 
 Total Exam Time: 24 hours
@@ -117,7 +117,7 @@ Status: Fail
 
 I learned my lesson and started this exam earlier in the day. Things started off smoother and I was able to get SYSTEM on two of the AD machines and fully rooted a standalone box in the first 12 hours. Unfortunately, upon reflection I realize I should have been taking more breaks but I kept persisting after making progress. It wasn't until hour 23 that I finally took a break and found a foothold on that 2nd standalone that was super obvious. If I had rested earlier I would have likely had enough time to pwn the box and move on to either the last standalone or wrap up the AD set.
 
-## Attempt 3
+### Attempt 3
 Exam Format: Current Format
 Datetime: 1/10/26 - 9 AM PST
 Total Exam Time: 13 hours
