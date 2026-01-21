@@ -10,6 +10,14 @@ tags: [OffSec, OSCP, OSCP+]
 
 How can does one properly bookend a journey that has taken several hundreds (perhaps even over a thousand) hours of your life? The study sessions starting at 3am, the late nights ending often when your spouse is about to wake up for work, and turning down social calls with friends and family over and over. I took and passed the OSCP+ exam on my third attempt earlier this month. I'm writing this in case there is someone out there that is about to start their own path to the OSCP and may benefit from my experience.
 
+<iframe
+  src="https://credentials.offsec.com/embed/fea2ee2f-058e-4192-97a7-6130e7cd78ef"
+  width="800"
+  height="600"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
 # tl;dr
 
 * join and participate in the OffSec community Discord from the start of your journey. You'll likely see me there. Be respectful, make friends, and ask questions: https://discord.com/invite/offsec
